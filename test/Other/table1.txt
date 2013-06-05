@@ -1,0 +1,13 @@
+id	id2	field1	field2	field3
+21	x	mike	30	22.8
+22	x	mike1	23.9	22.3
+23	x	mike2	24	22.1
+25	x	mike3	25	22.1
+25	x	mike3	25	22.1
+26	x	mike4	26	22.1
+27	x	mike5	27	22.1
+28	x	mike6	28	22.2
+29	x	mike7	29.3	22.2
+30	x	mike8	29.5	22.1
+31	x	mike8	29.5	22.1
+32	x	mike8	29.5	22.1

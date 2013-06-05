@@ -1,0 +1,5 @@
+Total mismatched: 0
+Total missing rows in left side: 0
+Total missing rows in right side: 0
+Total duplicated rows in left side:0
+Total duplicated rows in right side:0

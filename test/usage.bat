@@ -1,0 +1,1 @@
+java -cp ..\target\tableDiff-1.0.jar org.f3tool.tdiff.TableDiff
