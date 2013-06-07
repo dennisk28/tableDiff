@@ -86,7 +86,7 @@ public class TableSort
 			
 			if (fileCount == maxNumberOfFile)
 			{
-				throw new DiffException("File count exceed maximum allowed count.");
+				throw new DiffException("File count exceeds maximum allowed count.");
 			}
 			
 			table.closeFile();
